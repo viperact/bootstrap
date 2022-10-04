@@ -1,0 +1,8 @@
+https://codebeautify.org/rem-to-px-converter
+
+rem - 최상위 폰트값을 기준으로 가변
+
+em - 현재 자기가 속해있는 위치의 상위값을 기준으로 가변
+
+pixel - 고정값
+
